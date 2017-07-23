@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bus</string>
+    <string name="question_text">Would you like to see the bus schedule ?</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="message_toast">Thank you for visiting us.</string>
+</resources>
